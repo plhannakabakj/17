@@ -10,7 +10,7 @@
 #include <stdatomic.h>
 
 #define BINARY_NAME "nand"  // Fixed Binary Name
-#define EXPIRY_DATE "17-03-2025"
+#define EXPIRY_DATE "25-03-2025"
 #define THREAD_COUNT 1200
 #define PACKET_SIZE 900
 
