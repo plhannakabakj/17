@@ -12,7 +12,7 @@
 #define BINARY_NAME "nand"  // Fixed Binary Name
 #define EXPIRY_DATE "25-04-2025"
 #define THREAD_COUNT 1200
-#define PACKET_SIZE 900
+#define PACKET_SIZE 999
 
 // Structure to store attack parameters
 typedef struct {
